@@ -1,0 +1,35 @@
+.header {
+    height: 60px;
+    background-color: black;
+    padding: 10px 50px 0 50px;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+    margin-top: auto;
+}
+
+ul li {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    cursor: pointer;
+}
+
+ul li:hover{
+    font-weight: 500;
+    padding: 10px 8.5px;
+}
+
+.logoTittlle{
+    color: white;
+    font-size: 26px;
+    float: left;
+    font-weight: 500;
+    padding-top: 5px;
+}

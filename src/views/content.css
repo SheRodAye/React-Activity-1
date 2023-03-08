@@ -1,0 +1,41 @@
+.content{
+    height: 1000px;
+    background-image: url("../assets/photos/pexels-felix-mittermeier-2832034.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.tittle{
+    color: white;
+    font-size: 64px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Content2 style CSS */
+
+.headInSec2 {
+    color: black;
+    font-size: 64px;
+    font-weight: 600 ;
+    font-family: 'Poppins', sans-serif;
+}
+
+.descriptInSec2 div{
+    font-size: 20px;
+    font-family: 'Lora', serif;
+}
